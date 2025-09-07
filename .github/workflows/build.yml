@@ -2,10 +2,10 @@ name: Text to console
 on:
   push:
      branches:
-[ "**" ]
+        [ "**" ]
   pull_request:
-      branches:
-      [ "**" ]
+     branches:
+        [ "**" ]
 jobs:
   build:
     runs-on: ubuntu-latest
