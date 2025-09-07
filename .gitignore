@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+
+# Jar, War, Ear, Zip, Tar, Gz files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+
+# Log files
+*.log
+logs/
+
+# IDE specific files (e.g., IntelliJ IDEA, Eclipse)
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+*.iws
+*.ipr
+.metadata/
+
+# Maven build artifacts
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle build artifacts
+.gradle/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
