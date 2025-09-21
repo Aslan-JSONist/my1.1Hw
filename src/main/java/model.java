@@ -4,7 +4,7 @@ public class Human {
     private String name;
     private String surname;
     private int age;
-    private boolean works;
+    private boolean working;
 
     public String getName() {
         return this.name;
@@ -15,8 +15,8 @@ public class Human {
     public int getAge() {
         return this.age;
     }
-    public boolean getWorks() {
-        return this.works;
+    public boolean getWorking() {
+        return this.working;
     }
 
     public void setName(String name) {
@@ -28,8 +28,8 @@ public class Human {
     public void setAge(int age) {
         this.age = age;
     }
-    public void setWorks(boolean works) {
-        this.works = works;
+    public void setWorks(boolean working) {
+        this.working = working;
     }
 
 }
