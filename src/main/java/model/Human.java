@@ -31,5 +31,4 @@ public class Human {
     public void setWorks(boolean working) {
         this.working = working;
     }
-
 }

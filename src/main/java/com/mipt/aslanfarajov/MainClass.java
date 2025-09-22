@@ -1,4 +1,4 @@
-package MainClass;
+package com.mipt.aslanfarajov;
 
 public class MainClass {
     private int someInt;
