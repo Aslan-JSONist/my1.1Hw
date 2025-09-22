@@ -1,1 +1,5 @@
-Application.class
+com\mipt\aslanfarajov\Application.class
+com\mipt\aslanfarajov\MainClass.class
+com\mipt\aslanfarajov\Student.class
+model\Human.class
+com\mipt\aslanfarajov\Worker.class
