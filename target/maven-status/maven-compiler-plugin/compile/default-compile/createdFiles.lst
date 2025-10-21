@@ -1,5 +1,14 @@
-com\mipt\aslanfarajov\Application.class
-com\mipt\aslanfarajov\MainClass.class
+com\mipt\aslanfarajov\CollectionsClasses\CustomList.class
+com\mipt\aslanfarajov\CollectionsClasses\MapUtils.class
+com\mipt\aslanfarajov\CollectionsClasses\CustomArrayList$CustomIterator.class
+com\mipt\aslanfarajov\GenericsTasksClasses\Calculator.class
+com\mipt\aslanfarajov\CollectionsClasses\CustomArrayList.class
+com\mipt\aslanfarajov\Application1.class
 com\mipt\aslanfarajov\Student.class
+com\mipt\aslanfarajov\GenericsTasksClasses\Pair.class
+com\mipt\aslanfarajov\GenericsTasksClasses\CollectionUtils.class
 model\Human.class
+com\mipt\aslanfarajov\GenericsTasksClasses\ArrayUtils.class
+com\mipt\aslanfarajov\MainClass.class
+com\mipt\aslanfarajov\CollectionsClasses\Student.class
 com\mipt\aslanfarajov\Worker.class
